@@ -148,7 +148,7 @@ Cada AFND tem exatamente um estado de partida e um estado final
 #+Latex: \vfill
 
 Referências:
-- https://en.wikipedia.org/wiki/Thompson's_construction
+- https://en.wikipedia.org/wiki/Thompson%27s_construction
 
 * Reconhecedores básicos
 #+BEGIN_CENTER
