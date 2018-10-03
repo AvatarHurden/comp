@@ -177,7 +177,7 @@ Através do uso de *Gramáticas Livres de Contexto*
 * Análise Semântica
 + Avaliar a *consistência semântica* do programa
 + Verificação de tipos
-  + Métodos de coerção (caso a definição da linguagem autorisar)
+  + Métodos de coerção (caso a definição da linguagem autorizar)
 + Exemplo
 * Geração de Código Intermediário
 + Usa a *representação interna* do compilador
